@@ -52,9 +52,9 @@
 
 # 🚀 Live Demo <a name="live-demo"></a>
 
-[Link to live demo](https://abenezerassefa.github.io/TODOLIST/dist/)
+[Link to live demo](https://abenezerassefa.github.io/TO-DO-LIST/dist/)
 
-[To Do List 📝](https://salwa99.github.io/To-Do-List/)
+[To Do List 📝](https://abenezerassefa.github.io/TO-DO-LIST/dist/)
 
 ### Server
 
